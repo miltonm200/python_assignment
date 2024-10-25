@@ -12,4 +12,4 @@ input_text = (
 )
 
 output_text = remove_duplicates(input_text)
-print(output_text)
+print(f'"{output_text}"')
